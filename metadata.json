@@ -1,0 +1,8 @@
+{
+  "name": "PottoyonBD - Digital Local Government Service Platform",
+  "description": "Government digital local government service management platform for Pabna Sadar Upazila, serving 10 Union Parishads and Pabna Municipality with citizen services, online payment, certificate generation, and QR verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
